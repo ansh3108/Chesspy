@@ -1,3 +1,4 @@
+
 # Chesspy
 
 Chess game where you can play chess(ofc.) change the theme by pressing 't' or restart the game with 'r'.
